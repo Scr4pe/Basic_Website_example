@@ -55,15 +55,58 @@
   padding: none;
   border: none;
   align-self:center;
+  width: 100%;
+  height: 100px;
 }
+
 
 body{
   background-color: #161729;
 }
 
-.info{
+
+.article_background{
   background-color: orange;
+  height: 220px;
+  
 }
+
+.article_picture{
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-right: 10px;
+  margin-left: 10px;
+  float: left;
+  width: 200px;
+  height: 200px;
+}
+
+.article_header{
+  float: middle;
+  padding-top: 10px;
+  padding-right: 10px;
+  padding-right: 10px;
+  color: white;
+  font-weight: bold;
+}
+
+.article_body{
+  float: middle;
+  padding: 10px;
+  padding-right: 10px;
+  padding-left: 10px;
+}
+
+
+.footer_background{
+  background-color: aqua;
+}
+
+.welcome_settings{
+  background-color: greenyellow;
+}
+
+
 
 .footer_header{
   margin: 10px;
@@ -108,8 +151,4 @@ body{
   top:0;
   overflow-x: hidden;
   padding-top: 20px;
-}
-
-.article_background{
-  background-color: aqua;
 }
