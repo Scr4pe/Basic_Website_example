@@ -69,6 +69,7 @@ body{
   background-color: orange;
   height: 220px;
   
+  
 }
 
 .article_picture{
@@ -100,6 +101,8 @@ body{
 
 .footer_background{
   background-color: aqua;
+  align-self:center;
+  float: middle;
 }
 
 .welcome_settings{
