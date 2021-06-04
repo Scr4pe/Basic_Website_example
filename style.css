@@ -101,7 +101,6 @@ body{
 .footer_background{
   background-color: aqua;
   align-self:center;
-  float: middle;
 }
 
 .welcome_settings{
@@ -121,6 +120,7 @@ body{
 .footer_credits{
   margin: 4px;
   font-size: 16px;
+  float:right;
 }
 
 /* Create two equal columns that floats next to each other */
