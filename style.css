@@ -17,7 +17,10 @@
   color: white;
 }
 
-
+.topnav a:visited {
+  background-color: #0452aaec ;
+  color:#ddd;
+}
 
 
 
