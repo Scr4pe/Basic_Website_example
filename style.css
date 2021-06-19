@@ -41,7 +41,7 @@
 
 
 
-  .article_picture{
+  .project_img{
     padding-top: 10px;
     margin-right: auto;
     margin-left: auto;
@@ -50,11 +50,11 @@
     height: 400px;
     display: block;
   }
-  .article_body{
+  .project_informations{
     float: middle;
     padding-bottom: 10px;
   }
-  .article_header{
+  .project_name{
     float: middle;
     padding-right: 10px;
     padding-left: 10px;
@@ -136,18 +136,18 @@
     .right {
       left: 0%;
     }
-    .article_picture {
+    .project_img {
       margin-right: 10px;
       margin-left: 10px;
       float: left;
       width: 240px;
       height: auto;
     }
-    .article_body{
+    .project_informations{
       float: middle;
       margin-bottom: 10px;
     }
-    .article_header{
+    .project_name{
       float: middle;
       padding-top: 10px;
       margin-top: 10px;
@@ -204,13 +204,13 @@
   }
 
   /* Place the timelime to the left */
-  .article_picture {
+  .project_img {
     float: middle;
     width: 230px;
     height: auto;
     max-height: 500px;
   }
-  .article_header{
+  .project_name{
     float: middle;
     margin-top: 10px;
     padding-right: 10px;
@@ -273,7 +273,7 @@ body{
 }
 
 
-.article_background{
+.project_set{
   background-color: orange;
   height: auto;
   
@@ -283,7 +283,7 @@ body{
 
 
 
-.article_body{
+.project_informations{
   float: middle;
   padding-right: 10px;
   padding-left: 10px;
