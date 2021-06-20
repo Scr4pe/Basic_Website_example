@@ -161,6 +161,7 @@
       height: auto;
       min-height: 180px;
       margin-top: 10px;
+      margin-left: 10px;
     }
     
     .team_skills {
@@ -179,7 +180,7 @@
       margin-bottom: 10px;
       margin-left: 10px;
       margin-right: 10px;
-    }
+      }
     
     .team_informations{
       padding-top: 10px;
@@ -187,7 +188,6 @@
       margin-right: 10px;
       margin-left: 10px;
     }
-
   }
 
 
@@ -234,7 +234,7 @@
   }
   
   .team_img {
-    width: 150px;
+    width: 300px;
     height: auto;
     float: left;
     margin-top: 10px;
